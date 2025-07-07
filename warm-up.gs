@@ -50,6 +50,8 @@ function sendWarmupEmail() {
 
 This email is automated to send regularly to help warmup our new email address. Please reply.
 
+How it works, this email will auto generate different content daily to appear more organic. Every 24 hours, the inbox will scan for your reply and reply back as well to show conversations. You only need to reply once, and if this email appears to junk, please move to inbox and flag as not junk. Thank you.
+
 In the meantime, here's a new dad joke:
 ${joke}
 
