@@ -46,10 +46,10 @@ Go to your Apps Script project:
 | Key             | Description                                    | Example value                              |
 |-----------------|------------------------------------------------|--------------------------------------------|
 | `OW_API_KEY`    | Your OpenWeatherMap API key                     | `abcd1234efgh5678ijkl`                     |
-| `MAIN_TO`       | The primary email address to send warm-up emails to (usually your own) | `tj@google.com`                            |
-| `FROM_NAME`     | The “From” display name for sent emails        | `TJ`                                      |
-| `CC_RECIPIENTS` | Comma-separated list of emails to CC in warm-up emails | `tj@gmail.com,alice@example.com`           |
-| `BCC_RECIPIENTS`| Comma-separated list of emails to BCC in warm-up emails | `tj@hotmail.com,bob@example.com`           |
+| `MAIN_TO`       | The primary email address to send warm-up emails to (usually your own) | `bob@google.com`                            |
+| `FROM_NAME`     | The “From” display name for sent emails        | `BOB`                                      |
+| `CC_RECIPIENTS` | Comma-separated list of emails to CC in warm-up emails | `bob@example.com`           |
+| `BCC_RECIPIENTS`| Comma-separated list of emails to BCC in warm-up emails | `jane@example.com`           |
 
 ---
 
