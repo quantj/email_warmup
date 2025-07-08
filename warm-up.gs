@@ -60,7 +60,7 @@ ${funFact}
 
 Have a great day!
 
-— ${fromName}'s bot`;
+— ${fromName}'s assistant`;
 
   // --- Send email
   GmailApp.sendEmail(mainTo, subject, body, {
