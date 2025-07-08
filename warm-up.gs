@@ -48,9 +48,9 @@ function sendWarmupEmail() {
   // --- Email body
   const body = `Hi team,
 
-This email is automated to send regularly to help warmup our new email address. Please reply.
+You’re getting this message as part of testing our new notifications email. We’re keeping things casual and light for now, just making sure everything looks good in inboxes.
 
-How it works, this email will auto generate different content daily to appear more organic. Every 24 hours, the inbox will scan for your reply and reply back as well to show conversations. You only need to reply once, and if this email appears to junk, please move to inbox and flag as not junk. Thank you.
+Feel free to reply if you see this, one reply is enough on your end. If it ever lands in junk, just mark it as not junk so we know it’s getting through.
 
 In the meantime, here's a new dad joke:
 ${joke}
